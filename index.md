@@ -365,7 +365,7 @@ In this case let’s assume the power frequency to be 50 Hz. Then,
 						  <p>
 						  <span style="overflow: hidden; display: inline-block;"><img alt="image missing" src="images/image16.png" ></span> <br/>
 						  Now the same given values in the problem can be restate using a phasor diagram as below.(The diagram is not to the scale.)<br/>
-						  <span style="overflow: hidden; display: inline-block;"><img alt="image missing" src="images/capture1.png" ></span> <br/>
+						  <span style="overflow: hidden; display: inline-block;"><img alt="image missing" src="images/capture1.PNG" ></span> <br/>
 						  Drawing  a phasor diagram is very easy.All you need to do is following.<br/>
 						  <ul style="margin-left: 5%;">
 						  <li>•	Draw two perpendicular axes (Real and Imaginary)</li>
@@ -386,22 +386,22 @@ In this case let’s assume the power frequency to be 50 Hz. Then,
 							  <p>
 									  <span class="step-text">Resultant Impedance:</span><br/>
 								  Now using the same phasor diagram let’s find out the resultant impedance. All we need to do is vector summation.<br/>
-								   <span style="overflow: hidden; display: inline-block;"><img alt="image missing" src="images/capture2.png" ></span> <br/>
+								   <span style="overflow: hidden; display: inline-block;"><img alt="image missing" src="images/capture2.PNG" ></span> <br/>
 								   By using your mathematical knowledge, you can find the ‘magnitude’ and ‘argument’ of resultant impedance.<br/>
 								   <span style="overflow: hidden; display: inline-block;"><img alt="image missing" src="images/eq1.png" ></span> <br/>
-								   <span style="overflow: hidden; display: inline-block;"><img alt="image missing" src="images/capture3.png" ></span> <br/>
+								   <span style="overflow: hidden; display: inline-block;"><img alt="image missing" src="images/capture3.PNG" ></span> <br/>
 								  Now we need to divide voltage by the resultant impedance to find the current.<br/><br/>
 								  <span class="step-text">Current:</span><br/>
 								  If you can <span class="remember-text">remember</span> the complex number theory. You know how to divide and multiply any two complex numbers which are in polar form.<br/>
 									<span style="overflow: hidden; display: inline-block;"><img alt="image missing" src="images/eq2.png" ></span> <br/>
-									<span style="overflow: hidden; display: inline-block;"><img alt="image missing" src="images/capture4.png" ></span> <br/>
+									<span style="overflow: hidden; display: inline-block;"><img alt="image missing" src="images/capture4.PNG" ></span> <br/>
 									The lengths are not to the scale.<br/><br/>
 									<span class="step-text">Voltage drop across each component:</span><br/>
 									Now using your knowledge explained about complex number multiplication,
 									<span style="overflow: hidden; display: inline-block;"><img alt="image missing" src="images/eq3.png" ></span> <br/>
 									Similarly,<br/>
 									<span style="overflow: hidden; display: inline-block;"><img alt="image missing" src="images/eq4.png" ></span> <br/>
-									<span style="overflow: hidden; display: inline-block;"><img alt="image missing" src="images/capture5.png" ></span> <br/>
+									<span style="overflow: hidden; display: inline-block;"><img alt="image missing" src="images/capture5.PNG" ></span> <br/>
 							  </p>
 							  </div>
 							</li>
@@ -412,10 +412,10 @@ In this case let’s assume the power frequency to be 50 Hz. Then,
 							  <ul style="margin-left: 5%;">
 							  <li>1.  If you notice it carefully, you can see the angle of resultant impedance and current is the same in size. But opposite in angle [(+63.435) and (-63.435)].This is because their addition should be equal to the angle of voltage which is zero.</li>
 							  <li>2.  The voltage drops through Resistor and Inductor <span style="overflow: hidden; display: inline-block;"><img alt="image missing" src="images/eq5.png" ></span>are perpendicular to each other. (Look green and orange arrows.) This is because they are in series. For passive components which are in series, despite the magnitude of voltage drop their angles would be perpendicular depending on their resistance and reactance value.</li>
-							  <li><span style="overflow: hidden; display: inline-block;"><img alt="image missing" src="images/capture5b.png" ></span> <br/></li>
+							  <li><span style="overflow: hidden; display: inline-block;"><img alt="image missing" src="images/capture5b.PNG" ></span> <br/></li>
 							  <li>3.  Summation of voltage drops through Resistor and Inductor <span style="overflow: hidden; display: inline-block;"><img alt="image missing" src="images/eq5.png" ></span> can be proved to be equal to supply voltage through vector summation.
 							  </li>
-							  <li><span style="overflow: hidden; display: inline-block;"><img alt="image missing" src="images/capture6.png" ></span> <br/></li>
+							  <li><span style="overflow: hidden; display: inline-block;"><img alt="image missing" src="images/capture6.PNG" ></span> <br/></li>
 							  </ul>
 							  	
 	
@@ -439,7 +439,7 @@ In this case let’s assume the power frequency to be 50 Hz. Then,
 						  <p>
 						  <span style="overflow: hidden; display: inline-block;"><img alt="image missing" src="images/image38.png" ></span><br/>
 						  Now the same given values in the problem can be restate using a phasor diagram as below.<br/>
-						  <span style="overflow: hidden; display: inline-block;"><img alt="image missing" src="images/capture7.png" ></span> <br/>
+						  <span style="overflow: hidden; display: inline-block;"><img alt="image missing" src="images/capture7.PNG" ></span> <br/>
 						  The lengths of the diagram are not to the scale.<br/><br/>
 						  
 							  <ul class="collapsible">
@@ -448,12 +448,12 @@ In this case let’s assume the power frequency to be 50 Hz. Then,
 						  <div class="collapsible-body"><span>We'll have the following approach.</span>
 						  <p>
 						  <span class="step-text">Resultant Impedance:</span><br/>Through vector summation, can we find the resultant impedance?<br/>
-						   <span style="overflow: hidden; display: inline-block;"><img alt="image missing" src="images/capture8.png" ></span> <br/>
+						   <span style="overflow: hidden; display: inline-block;"><img alt="image missing" src="images/capture8.PNG" ></span> <br/>
 						  does the green arrow in above figure give the resultant impedance?<br/><br/><br/>
 						  The answer is <span class="remember-text">NO</span>. Green arrow is the resultant impedance of series connection of given components. In our case, it is really complicated as there is a parallel connection in this circuit. Therefore, being stick to complex numbers and calculator would be much easy. So we’ll borrow the calculated value from sample 2.1.1.b.<br/>
 						  <span style="overflow: hidden; display: inline-block;"><img alt="image missing" src="images/eq6.png" ></span> <br/><br/>
 						  <span class="step-text">Current I:</span><br/>
-						  <span style="overflow: hidden; display: inline-block;"><img alt="image missing" src="images/capture9.png" ></span> <br/>
+						  <span style="overflow: hidden; display: inline-block;"><img alt="image missing" src="images/capture9.PNG" ></span> <br/>
 						  In above figure green arrow represents the resultant impedance.<br/>
 							Now from the experience of previous knowledge, can you draw the current phasor?	Since the relationship is, <br/>
 							<span style="overflow: hidden; display: inline-block;"><img alt="image missing" src="images/eq7.png" ></span> <br/><br/>
@@ -461,9 +461,9 @@ In this case let’s assume the power frequency to be 50 Hz. Then,
 							<span style="overflow: hidden; display: inline-block;"><img alt="image missing" src="images/eq8.png" ></span> <br/><br/>
 							Magnitude is simply the division of voltage magnitude divided by impedance magnitude.<br/>
 							<span style="overflow: hidden; display: inline-block;"><img alt="image missing" src="images/eq9.png" ></span> <br/><br/>
-							<span style="overflow: hidden; display: inline-block;"><img alt="image missing" src="images/capture10.png" ></span> <br/><br/>
+							<span style="overflow: hidden; display: inline-block;"><img alt="image missing" src="images/capture10.PNG" ></span> <br/><br/>
 							<span class="step-text">Voltage drop through capacitor:</span><br/>It is equal to supply voltage and we can denote as below.<br/>
-							<span style="overflow: hidden; display: inline-block;"><img alt="image missing" src="images/capture11.png" ></span> <br/><br/>
+							<span style="overflow: hidden; display: inline-block;"><img alt="image missing" src="images/capture11.PNG" ></span> <br/><br/>
 							<span class="step-text">Current through capacitor:</span><br/>
 							Here the relationship is,<br/><span style="overflow: hidden; display: inline-block;"><img alt="image missing" src="images/eq10.png" ></span> <br/>Magnitude is simply the division of voltage magnitude divided by impedance magnitude.<br/>
 							<span style="overflow: hidden; display: inline-block;"><img alt="image missing" src="images/eq11.png" ></span> <br/>
@@ -472,12 +472,12 @@ In this case let’s assume the power frequency to be 50 Hz. Then,
 							Here relationship is,<br/>
 							<span style="overflow: hidden; display: inline-block;"><img alt="image missing" src="images/eq12.png" ></span> <br/>
 							Therefore, we should be able to solve this using vector subtraction. <br/>
-							<span style="overflow: hidden; display: inline-block;"><img alt="image missing" src="images/capture12.png" ></span> <br/><br/>
+							<span style="overflow: hidden; display: inline-block;"><img alt="image missing" src="images/capture12.PNG" ></span> <br/><br/>
 							We can also calculate the magnitude and angle through vector summation rules,<br/>
 							<span style="overflow: hidden; display: inline-block;"><img alt="image missing" src="images/eq13.png" ></span> <br/> <br/>
 							<span class="step-text">Voltage through inductor and resistor:</span><br/>The relationship is,<br/>
 							<span style="overflow: hidden; display: inline-block;"><img alt="image missing" src="images/eq14.png" ></span> <br/>
-							<span style="overflow: hidden; display: inline-block;"><img alt="image missing" src="images/capture13.png" ></span> <br/>
+							<span style="overflow: hidden; display: inline-block;"><img alt="image missing" src="images/capture13.PNG" ></span> <br/>
 							<span style="overflow: hidden; display: inline-block;"><img alt="image missing" src="images/eq15.png" ></span> <br/>
 						  </p>
 						  
